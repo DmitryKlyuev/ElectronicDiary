@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cde4bbac-bb42-41f3-a207-bd798051f209" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/noteForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/noteForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/noteList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/authentication/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/authentication/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/authentication/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/authentication/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/diary/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/diary/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/main/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/backendErrors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/backendErrors.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +96,7 @@
       <workItem from="1593629444152" duration="10921000" />
       <workItem from="1593881292519" duration="18825000" />
       <workItem from="1594205873824" duration="10065000" />
-      <workItem from="1594219736624" duration="20774000" />
+      <workItem from="1594219736624" duration="24011000" />
     </task>
     <servers />
   </component>
